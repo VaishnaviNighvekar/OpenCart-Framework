@@ -1,6 +1,6 @@
 # 🚀 Playwright TypeScript Automation Framework
 
-A scalable and maintainable End-to-End (E2E) Test Automation Framework built using **Playwright** and **TypeScript**, designed following industry-standard automation practices. This framework supports cross-browser testing, data-driven testing, reusable Page Object Model architecture, detailed reporting, and CI/CD integration for reliable and efficient web application testing. [1](https://wolterskluwer-my.sharepoint.com/personal/vaishnavi_nighvekar_wolterskluwer_com/Documents/Microsoft%20Copilot%20Chat%20Files/Framework-Step%20By%20Step.pdf)
+A scalable and maintainable End-to-End (E2E) Test Automation Framework built using **Playwright** and **TypeScript**, designed following industry-standard automation practices. This framework suppo[...]
 
 ---
 
